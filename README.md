@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">WYM1</h1>
+<p align="center">Python learner · Building toward AI & ML</p>
 
-<!--
-**wym1wym1/wym1wym1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><small>Self-taught in Python (Early Intermediate)</small></p>
 
-Here are some ideas to get you started:
+```python
+# About Me
+About_Me = {
+    'Name': 'WYM1',
+    'Language': 'Python',
+    'Goal': 'ML & AI',
+    'Current': 'Tkinter, fundamentals',
+    'Next': 'OOP, NumPy'
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+for Key, Value in About_Me.items():
+    print(f'{Key:<4}: {Value}')
+```
+
+
+
+💻 [My Projects](https://github.com/wym1wym1/My-Beginner-Code)
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
+
+
+
+
+
+
