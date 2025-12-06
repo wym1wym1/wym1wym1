@@ -1,7 +1,5 @@
-<h1 align="center">WYM1</h1>
-<p align="center">Python learner · Building toward AI & ML</p>
-
-<p align="center"><small>Self-taught in Python (Early Intermediate)</small></p>
+# WYM1
+Self taught, horrible 
 
 ```python
 # About Me
