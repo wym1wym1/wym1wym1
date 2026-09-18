@@ -1,5 +1,5 @@
 # WYM1
-Self taught, horrible 
+
 
 
 
