@@ -1,5 +1,7 @@
 # WYM1
 
+i almost finished cs50p 
+
 
 
 
